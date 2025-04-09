@@ -1,0 +1,29 @@
+ID,Repository Name,Repository Link,Human/AI-Coauthored,AI Tool Used,AI-coauthorship Mention,Number of Commits,Lines of Code/Size,# of Stars,Date created (utc),Date last updated (utc),# of Contributors,Has Test Files,Python Version
+1,3c348f3391,5b98e51bca,AI-Coauthored,GitHub Copilot,Commit messages indicate “Co-authored-by: GitHub Copilot”,83,2.32 MB,0,2023-03-03T05:53:45Z,2023-09-16T18:58:44Z,1,No,3
+2,17d351ba9b,f1e212e22b,AI-Coauthored,GitHub Copilot,AI-coauthorship noted in commits,5,9.69 KB,1,2017-11-29T19:12:19Z,2023-09-21T12:28:57Z,1,No,3
+3,81793fa638,e1b3f217b9,AI-Coauthored,GitHub Copilot,README and commit notes mention AI assistance,19,38.18 KB,70,2023-02-18,2023-04-23,1,Yes,3
+4,edafef6f5c,3c22dc6b65,AI-Coauthored,GitHub Copilot,“Co-authored-by: GitHub Copilot” appears in commit messages,9,137.75 KB,3,2023-03-26T14:13:39Z,2023-08-24T06:55:08Z,2,No,3
+5,3327fb67d3,79d7162d8d,AI-Coauthored,GitHub Copilot,AI-generated commits detected via commit annotations,4,2.39 MB,0,2023-08-15T17:00:29Z,2023-09-13T10:54:48Z,1,No,3
+6,790c277029,857f8646df,AI-Coauthored,GitHub Copilot,Indications in commit messages that AI assistance was used,2,10.76 KB,0,2023-08-09T12:25:30Z,2023-09-01T17:54:41Z,1,No,3
+7,6755f0835a,d1a1d7c48b,AI-Coauthored,GitHub Copilot,Repository name and commits clearly reference GitHub Copilot,4,7.33 KB,0,2022-01-08T21:59:06Z,2023-06-23T17:32:29Z,1,No,3
+8,d92956f18a,08a994182b,AI-Coauthored,ChatGPT,Repository title and commit messages indicate ChatGPT involvement,10,133.7 KB,4,2023-02-25T14:22:02Z,2023-06-25T13:07:18Z,1,No,3
+9,f43c9e8acd,4924af7338,AI-Coauthored,ChatGPT,Title suggests GPT involvement; commit annotations note AI assistance,50,109.84 KB,4,2023-03-16T03:12:56Z,2023-07-25T03:18:52Z,2,No,3
+10,1d73335ffa,3d54819c15,AI-Coauthored,GitHub Copilot,Commit history shows “Co-authored-by: GitHub Copilot”,11,35.14 MB,1,2023-05-29T09:39:50Z,2023-09-11T09:49:19Z,3,No,3
+11,e8b46e6a3c,65a3382a78,Human Written,N/A,N/A,2,23.49 KB,41,2019-02-08,2019-02-11,1,No,3
+12,069c90c1b6,085313712a,Human Written,N/A,N/A,4,6.35 MB,4200,2018-06-09,2020-03-18,2,No,3
+13,f8c761988d,044f494485,Human Written,N/A,N/A,4,24.18 KB,114,2019-04-08,2019-04-28,1,Yes,3
+14,e927177798,24d71f2b7a,Human Written,N/A,N/A,9,107.73 KB,25,2020-04-13,2020-08-04,1,No,3
+15,778572e64e,f13604a4ec,Human Written,N/A,N/A,5,14.35 KB,29,2018-04-21,2019-03-23,2,No,3
+16,47eaf3b540,4b4544c504,Human Written,N/A,N/A,10,433.49 KB,39,2018-03-10,2019-11-02,1,No,3
+17,cd5456c8aa,44ed5594f1,Human Written,N/A,N/A,11,20.06 KB,1,2017-11-17T20:32:31Z,2021-03-22T10:43:26Z,1,No,3
+18,5ef865f5fc,88b36ea884,Human Written,N/A,N/A,12,17.91 KB,32,2016-09-06,2021-03-08,2,Yes,3
+19,92716a7a2d,e24a1c32f4,Human Written,N/A,N/A,50,131.08 KB,10,2017-03-26,2017-12-04,4,No,3
+20,6218b2b278,ef709bd606,Human Written,N/A,N/A,73,3.71 MB,75,2017-12-05,2019-11-02,4,Yes,3
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,3
